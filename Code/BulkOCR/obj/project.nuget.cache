@@ -1,0 +1,11 @@
+{
+  "version": 2,
+  "dgSpecHash": "p9ZdKYo2/Eg=",
+  "success": true,
+  "projectFilePath": "Z:\\Projects\\Coding\\Visual Studio\\BulkOCR\\BulkOCR\\BulkOCR.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\cantc\\.nuget\\packages\\system.reflection.emit\\4.7.0\\system.reflection.emit.4.7.0.nupkg.sha512",
+    "C:\\Users\\cantc\\.nuget\\packages\\tesseract\\5.2.0\\tesseract.5.2.0.nupkg.sha512"
+  ],
+  "logs": []
+}

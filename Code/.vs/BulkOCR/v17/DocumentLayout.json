@@ -1,0 +1,57 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "Z:\\Projects\\Coding\\Visual Studio\\BulkOCR\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{EF95EB58-B816-43CB-9F51-1B0DB8491085}|BulkOCR\\BulkOCR.csproj|z:\\projects\\coding\\visual studio\\bulkocr\\bulkocr\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{EF95EB58-B816-43CB-9F51-1B0DB8491085}|BulkOCR\\BulkOCR.csproj|solutionrelative:bulkocr\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{EF95EB58-B816-43CB-9F51-1B0DB8491085}|BulkOCR\\BulkOCR.csproj|z:\\projects\\coding\\visual studio\\bulkocr\\bulkocr\\image.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{EF95EB58-B816-43CB-9F51-1B0DB8491085}|BulkOCR\\BulkOCR.csproj|solutionrelative:bulkocr\\image.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 2,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{b1e99781-ab81-11d0-b683-00aa00a3ee26}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Image.cs",
+              "DocumentMoniker": "Z:\\Projects\\Coding\\Visual Studio\\BulkOCR\\BulkOCR\\Image.cs",
+              "RelativeDocumentMoniker": "BulkOCR\\Image.cs",
+              "ToolTip": "Z:\\Projects\\Coding\\Visual Studio\\BulkOCR\\BulkOCR\\Image.cs",
+              "RelativeToolTip": "BulkOCR\\Image.cs",
+              "ViewState": "AQIAAC8AAAAAAAAAAAAswEsAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-05T02:47:44.666Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Program.cs",
+              "DocumentMoniker": "Z:\\Projects\\Coding\\Visual Studio\\BulkOCR\\BulkOCR\\Program.cs",
+              "RelativeDocumentMoniker": "BulkOCR\\Program.cs",
+              "ToolTip": "Z:\\Projects\\Coding\\Visual Studio\\BulkOCR\\BulkOCR\\Program.cs",
+              "RelativeToolTip": "BulkOCR\\Program.cs",
+              "ViewState": "AQIAAFIAAAAAAAAAAAAowKUAAAAsAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-31T14:08:14.354Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
